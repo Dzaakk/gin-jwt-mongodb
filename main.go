@@ -1,7 +1,7 @@
 package main
 
 import (
-	routes "gin-jwt-mongodb/routes"
+	"gin-jwt-mongodb/routes"
 
 	"github.com/gin-gonic/gin"
 )
